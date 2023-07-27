@@ -1,4 +1,6 @@
 # QuotesVenturer 
+![Alt Text](https://github.com/X-XENDROME-X/QuotesVenturer/raw/main/QuotesVenturer.png)
+
 
 QuotesVenturer is a Discord bot designed to bring joy and inspiration to your server by providing random quotes on command. The bot fetches a random quote from the ZenQuotes API and shares it with your server members, creating a positive and uplifting atmosphere.
 
