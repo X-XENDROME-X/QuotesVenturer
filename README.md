@@ -30,10 +30,6 @@ Once the bot is up and running on your server, you can start using the commands:
 
 Feel free to customize the bot to suit your needs! You can add more commands, integrate it with other APIs, or enhance its functionality. The code is well-organized and easy to understand, making it a great starting point for further development.
 
-## Contributing
-
-If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. We welcome contributions from the community to improve QuotesVenturer.
-
 ## Credits
 
 - This bot was built with [Discord.py](https://discordpy.readthedocs.io/en/stable/), a powerful Python library for interacting with the Discord API.
