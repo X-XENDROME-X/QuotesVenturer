@@ -1,5 +1,3 @@
-BOT_TOKEN = "MTEzMzk5MDU2ODA3OTM5MjgzOQ.GXiuMe.Id1Z6puhiODr5bFr6vMpJQWBnZXL2fDhOChDhw"
-CHANNEL_ID = 1133999115148206174
 
 import discord
 from discord.ext import commands
